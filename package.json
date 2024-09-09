@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "chromatic": "npx chromatic --cypress --project-token=chpt_ba353b08a796d74"
+
   },
   "author": "",
   "license": "ISC",
